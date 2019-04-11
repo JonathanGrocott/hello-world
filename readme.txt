@@ -7,4 +7,4 @@
 
 \f0\fs24 \cf0 Hello!\
 Adding new line\'85..\
-New line 2}
+New line 2 and 3}
